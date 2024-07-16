@@ -1,6 +1,8 @@
 
-Text Generation Detection: A Kaggle Competition Project
-Overview
+Text Generation Detection: A Kaggle Competition Project:
+
+Overview:
+
 Text generation, powered by advances in natural language processing (NLP) and deep learning, has become a critical tool for various applications such as chatbots, language translation, and content creation. These models generate text by predicting likely sequences based on extensive training datasets from news articles, books, and web-scraped data. Despite its advantages, text generation poses challenges in ensuring the authenticity, accuracy, and authoritativeness of the content. This project addresses these challenges by developing models to detect whether a given text is machine-generated or human-written.
 
 Objective
